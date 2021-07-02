@@ -1,0 +1,13 @@
+// Trace the o/p
+class test
+{
+  public static void main (String arts[])
+   {
+      String String = new String ("hello");
+      System.out.println(String);
+   }
+}
+
+/*
+   A) error;
+   B) hello
