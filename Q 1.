@@ -1,7 +1,7 @@
 // Trace the o/p
 class test
 {
-  public static void main (String arts[])
+  public static void main (String args[])
    {
       String String = new String ("hello");
       System.out.println(String);
@@ -9,5 +9,6 @@ class test
 }
 
 /*
-   A) error;
+   A) error
    B) hello
+*/
