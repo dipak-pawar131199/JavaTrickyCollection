@@ -1,0 +1,16 @@
+//Identity the o/p
+
+class test
+{
+  public static void main(String args[])
+   {
+       int a='म';
+       System.out.println(a);
+   }
+}
+/*
+  A) म 
+  B) error
+  C) 2350
+*/
+ 
